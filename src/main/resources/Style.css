@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/2097869425/display_1500/stock-vector-music-notes-background-round-musical-frame-vector-illustration-2097869425.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+}
+
+main {
+    text-align: center;
+    color: #333;
+
+
+}
